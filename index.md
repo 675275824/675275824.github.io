@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-Hi there, I'm **Mohammad Zamran**, a **Software Engineering student** 🚀 from Lahore, Pakistan.
+Hi there, I'm **Qi Qin**, a **Communication Engineering student** 🚀 from Lahore, Pakistan.
  <!-- Currently, I'm a Community Team Member 🙍🏽‍♂️ [@CallmeMehdi](https://github.com/CallmeMehdi), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/mehdimabrouki), and an Artificial Intelligence intern 👨🏽‍💼.  -->
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
@@ -39,7 +39,7 @@ Hi there, I'm **Mohammad Zamran**, a **Software Engineering student** 🚀 from 
 **About Me!**
 
 - 👨🏽‍💻 I am currently studying at Beijing Jiaotong University.
-- 🌱 My current main focus is on weakly supervised saliency detection.
+- 🌱 My current main focus is on weakly supervised saliency detection for DeepLearing.
 - 🤔 My interests are web-automation, video processing and developing some useful and cool stuff xD
 - 💼 I am pursuing a master's degree in Information and Communication Engineering.
 - 💬 Ask me about anything, I love to answer!
