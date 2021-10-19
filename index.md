@@ -1,37 +1,65 @@
-## Welcome to GitHub Pages
+<!-- <h3 title="hehehe"> Hi there! 👋</h3> -->
 
-You can use the [editor on GitHub](https://github.com/675275824/675275824.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<!--
+**ZamranxD/ZamranxD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here are some ideas to get you started:
 
-### Markdown
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+<h3 title="hehehe"> Hey 👋, I'm Zamran!</h3>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<a href="https://www.linkedin.com/in/zamranxd/">
+  <img align="left" alt="Zamran's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/zamranxd/">
+  <img align="left" alt="Zamran's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/ZamranxD">
+  <img align="left" alt="Zamran's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<br>
+<br>
+<img src="https://komarev.com/ghpvc/?username=ZamranxD&color=blueviolet">
+<br />
+<br />
 
-```markdown
-Syntax highlighted code block
+Hi there, I'm **Mohammad Zamran**, a **Software Engineering student** 🚀 from Lahore, Pakistan.
+ <!-- Currently, I'm a Community Team Member 🙍🏽‍♂️ [@CallmeMehdi](https://github.com/CallmeMehdi), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/mehdimabrouki), and an Artificial Intelligence intern 👨🏽‍💼.  -->
 
-# Header 1
-## Header 2
-### Header 3
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-- Bulleted
-- List
+**About Me!**
 
-1. Numbered
-2. List
+- 👨🏽‍💻 I am currently studying at Beijing Jiaotong University.
+- 🌱 My current main focus is on weakly supervised saliency detection.
+- 🤔 My interests are web-automation, video processing and developing some useful and cool stuff xD
+- 💼 I am pursuing a master's degree in Information and Communication Engineering.
+- 💬 Ask me about anything, I love to answer!
+- 📫 Email me at [qiqin96@bjtu.edu.cn](qinqidaker@gmail.com).
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+**Languages and Tools:**  
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/675275824/675275824.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
-### Support or Contact
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<img src="https://github-readme-stats.vercel.app/api?username=ZamranxD&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Zamran's GitHub Stats">
+
+⭐️ From [ZamranxD](https://github.com/ZamranxD)
