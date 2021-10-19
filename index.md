@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h3 title="hehehe"> Hey 👋, I'm QiQin!</h3>
-<a href="https://www.linkedin.com/in/zamranxd/">
-  <img align="left" alt="QiQin's LinkdeIn" width="24px" src="https://675275824.github.io/" />
+<a href="https://675275824.github.io/">
+  <img align="left" alt="QiQin's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/zamranxd/">
-  <img align="left" alt="QiQin's Instagram" width="24px" src="https://675275824.github.io/" />
+<a href="https://675275824.github.io/">
+  <img align="left" alt="QiQin's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/ZamranxD">
-  <img align="left" alt="QiQin's Instagram" width="24px" src="https://675275824.github.io/" />
+<a href="https://675275824.github.io/">
+  <img align="left" alt="QiQin's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <br>
 <br>
