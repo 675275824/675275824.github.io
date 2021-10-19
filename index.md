@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h3 title="hehehe"> Hey 👋, I'm QiQin!</h3>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=675275824)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://www.linkedin.com/in/zamranxd/">
   <img align="left" alt="Zamran's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
