@@ -1,7 +1,7 @@
 <!-- <h3 title="hehehe"> Hi there! 👋</h3> -->
 
 <!--
-**ZamranxD/ZamranxD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 <h3 title="hehehe"> Hey 👋, I'm QiQin!</h3>
 <a href="https://www.linkedin.com/in/zamranxd/">
-  <img align="left" alt="Zamran's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="QiQin's LinkdeIn" width="24px" src="https://675275824.github.io/" />
 </a>
 <a href="https://www.instagram.com/zamranxd/">
-  <img align="left" alt="Zamran's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="QiQin's Instagram" width="24px" src="https://675275824.github.io/" />
 </a>
 <a href="https://www.facebook.com/ZamranxD">
-  <img align="left" alt="Zamran's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="QiQin's Instagram" width="24px" src="https://675275824.github.io/" />
 </a>
 <br>
 <br>
